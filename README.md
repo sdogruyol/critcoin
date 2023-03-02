@@ -1,18 +1,20 @@
 # critcoin
 
-TODO: Write a description here
+Crystal ve Kemal ile 100 satırdan az kod ile kendi blok zincirinizi geliştirin.
 
-## Installation
+## Kurulum
 
-TODO: Write installation instructions here
+```
+git clone https://github.com/sdogruyol/critcoin
+cd critcoin
+shards install
+```
 
-## Usage
+## Çalıştır
 
-TODO: Write usage instructions here
-
-## Development
-
-TODO: Write development instructions here
+```
+crystal src/critcoin.cr
+```
 
 ## Contributing
 
