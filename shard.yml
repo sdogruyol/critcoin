@@ -1,0 +1,19 @@
+name: critcoin
+version: 0.1.0
+
+
+dependencies:
+ kemal:
+   github: kemalcr/kemal
+
+
+authors:
+  - Serdar Dogruyol <dogruyolserdar@gmail.com>
+
+targets:
+  critcoin:
+    main: src/critcoin.cr
+
+crystal: 1.7.2
+
+license: MIT
